@@ -1,1 +1,1 @@
-FROM gcr.io/google_samples/k8szk:v3
+FROM k8s.gcr.io/kubernetes-zookeeper:1.0-3.4.10
